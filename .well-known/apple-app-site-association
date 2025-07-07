@@ -1,0 +1,19 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "NZDF623MUS.com.btf.BringTheFun",
+        "paths": [
+  "/challenges/*",
+  "/events/*",
+  "/groups/*",
+  "/refferal/*",
+  "/venues",
+  "/check-dance/*",
+  "/user/*"
+]
+      }
+    ]
+  }
+}
